@@ -12,9 +12,10 @@ As a Data Scientist, Machine Learning Engineer, and AI Research Assistant, I am 
 </p>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheeralics&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> 
-  <img src="https://streak-stats.demolab.com?user=shaheeralics&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalimullah49&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> 
+  <img src="https://streak-stats.demolab.com?user=Kalimullah49&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" /> 
 </div>
+
 
 <div align="center"> 
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Data Science GIF" style="border-radius: 10px;" /> 
