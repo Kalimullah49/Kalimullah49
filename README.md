@@ -34,10 +34,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 </head>
 
-<h1 align="left" style="font-family: Arial, sans-serif;">Kalimullah</h1>
-
-<h2 align="left" style="font-family: Arial, sans-serif;">Data Scientist | Machine Learning Engineer | AI Research Assistant.</h2>
-
 <p align="left"> 
 As a Data Scientist, Machine Learning Engineer, and AI Research Assistant, I am deeply passionate about advancing AI and machine learning technologies. With expertise in developing end-to-end machine learning models, conducting data analysis, and leveraging deep learning frameworks like TensorFlow and PyTorch, I am dedicated to uncovering valuable insights through data. My strong foundation in Python, SQL, and data visualization allows me to solve complex data problems effectively, driving innovative solutions in the field of AI. 
 </p>
