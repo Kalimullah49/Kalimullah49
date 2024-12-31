@@ -61,8 +61,4 @@
 ---
 
 ### ⚡ Fun Fact:
-_“Data is the new oil; AI is the engine.”_
-
----
-
-This updated script includes interactive visuals and structured sections to ensure an engaging experience. Let me know how else you'd like to tweak it!
+**_“Data is the new oil; AI is the engine.”_** 🛢️🤖
