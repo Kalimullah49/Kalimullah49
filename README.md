@@ -2,13 +2,13 @@
     <h1 style="font-family: 'Lobster', cursive; font-size: 3em; color: #4CAF50;">
         Welcome to My GitHub! 🌟
     </h1>
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEa6oE6JdFbTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729333367804?e=1741219200&v=beta&t=gCWp1Yr18TkOP3af6-g-2vsRVJgvkvzbnnusC-YDqUc" alt="Kalim Ullah" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEa6oE6JdFbTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729333367804?e=1747872000&v=beta&t=QNUvEIGGQmgF0d0rEbucG2NqgxB3YRksIFtd7275o0w" alt="Kalim Ullah" width="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
     <h2 style="font-family: Arial, sans-serif; color: #555;">
         Kalim Ullah <br>
         <em>Data Scientist | Machine Learning Engineer | AI Research Assistant</em>
     </h2>
     <p style="font-size: 1.2em; line-height: 1.5; color: #333;">
-        Hi! I’m Kalim Ullah, a passionate Data Scientist with **1+ year** of hands-on experience in building scalable AI solutions using <b>Python</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>. I specialize in <b>Transfer Learning</b>, <b>Generative AI</b>, and <b>Computer Vision</b>, crafting models for classification, regression, clustering, and image processing to tackle real-world business challenges.  
+        Hi! I’m Kalim Ullah, a passionate Data Scientist with <b>1+ year</b> of hands-on experience in building scalable AI solutions using <b>Python</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>. I specialize in <b>Transfer Learning</b>, <b>Generative AI</b>, and <b>Computer Vision</b>, crafting models for classification, regression, clustering, and image processing to tackle real-world business challenges.  
     </p>
 </div>
 
