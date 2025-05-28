@@ -2,8 +2,7 @@
     <h1 style="font-family: 'Lobster', cursive; font-size: 3em; color: #4CAF50;">
         Welcome to My GitHub! 🌟
     </h1>
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEa6oE6JdFbTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729333367804?e=1753920000&v=beta&t=f5beoXUQh982_ndXcYcYaWt0pF1EtvsznjKesNmXxgY">
-        Kalim Ullah <br>
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEa6oE6JdFbTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729333367804?e=1753920000&v=beta&t=f5beoXUQh982_ndXcYcYaWt0pF1EtvsznjKesNmXxgY"Kalim Ullah <br>
         <em>Data Scientist | Machine Learning Engineer | AI Research Assistant</em>
     </h2>
     <p style="font-size: 1.2em; line-height: 1.5; color: #333;">
